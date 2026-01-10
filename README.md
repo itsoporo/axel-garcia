@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Axel Garcia (@aztecGarcia)
+- 👋 Hi, I’m Axel Garcia (@itsoporo)
 - 👀 I’m interested in Computer Engineering, and Video game development!
 - 🌱 I’m currently learning C++, Java, HTML, CSS and javascript
 - 💞️ I’m looking to collaborate on projects around the world
