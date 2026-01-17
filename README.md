@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Engineering, and Video game development!
 - 🌱 I’m currently learning C++, Java, HTML, CSS and javascript
 - 💞️ I’m looking to collaborate on projects around the world
-- 📫 How to reach me: here on github, or @itso_fficial is my discord, or my insta @gaaxel.38
+- 📫 How to reach me: here on github, or @itso_fficial is my discord, or my insta @gaaxel.38, linked in https://www.linkedin.com/in/axel-garcia-07b842352
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cats!
 
